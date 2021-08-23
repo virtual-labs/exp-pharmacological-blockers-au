@@ -1,39 +1,83 @@
 {
   "version": 2.0,
   "questions": [
+    
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What effect would treating an axon with TTX have on an action potential? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Action potential observed with high amplitude",
+        "b": "Action potential observed with low amplitude",
+        "c": "Action potential not observed",
+        "d": "None"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+  
+
+
+    {
+      "question": "2. How would TEA affect the action potential? ",
+      "answers": {
+        "a": "No effect on action potential",
+        "b": "It would become shorter with more delay",
+        "c": "It would be more wider",
+        "d": "It would be longer and would not have an undershoot."
+
+       
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. Why does TTX does not have effect on puffer fish?",
+      "answers": {
+        "a": "Because puffer fish sodium channel is insensitive to TTX",
+        "b": "Amino acid sequence of sodium channel is different",
+        "c": "Both",
+        "d": "None"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. Drug X, when applied to a nerve axon, results in both a gradual decrease in the amplitude of individual action potentials and a depolarization of the resting potential, both of which develop over a period of several hours. The drug is most likely:",
+      "answers": {
+        "a": "Blocking the voltage-dependent Na+ permeability",
+        "b": "Blocking the voltage-dependent K+ permeability",
+        "c": "Blocking the sodium-potassium pump",
+        "d": "Blocking the process of sodium inactivation"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. Tetraethylammonium structure is:",
+      "answers": {
+        "a": " Quartenary",
+        "b": "Tertiary",
+        "c": "Secondary",
+        "d": "None"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
+
+
   ]
 }
